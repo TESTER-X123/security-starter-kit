@@ -1,6 +1,6 @@
 ---
 description: 새 취약점 진단 리포트 카드를 index.html에 추가합니다
-argument-hint: [취약점 제목] [심각도: critical|high|medium|low]
+argument-hint: "[취약점 제목] [심각도: critical|high|medium|low]"
 ---
 
 이 프로젝트의 `index.html`에 있는 `.report-card` 구조를 참고해서,
